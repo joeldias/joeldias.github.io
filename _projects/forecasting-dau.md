@@ -5,8 +5,6 @@ permalink: /projects/forecasting-dau/
 author_profile: false
 ---
 
-# Forecasting Daily Active Users (DAU)
-
 In this project, I built a forecasting system to predict Daily Active Users (DAU) for a mobile app.
 
 ## Problem
