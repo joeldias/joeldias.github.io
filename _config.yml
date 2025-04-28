@@ -63,6 +63,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "http://joeldias.github.io"
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
 footer:
   links:
     - label: "Twitter"
