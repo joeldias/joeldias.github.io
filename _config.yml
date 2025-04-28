@@ -14,15 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Joel Dias
-email:joel_dias10@hotmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Senior Data Scientist. Bridging Data, Product, and Strategy. Finding new solutions to problems to have an impact.
+
 url: http://joeldias.github.io
 github_username: joeldias
-author:
-  name: "Joel Dias"
-  bio: "Senior Data Scientist passionate about data-driven products, UA, forecasting, and game analytics."
-  github: joeldias
+
 minimal_mistakes_skin: default
 search: true
 
@@ -60,22 +55,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Joel Dias"
+  avatar : "/assets/images/profile.jpeg"
+  bio    : "Senior Data Scientist passionate about data-driven products, UA, forecasting, and game analytics."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "http://joeldias.github.io"
 
 footer:
   links:
