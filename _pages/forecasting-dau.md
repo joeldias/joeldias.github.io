@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Daily Active Users (DAU)"
-permalink: /forecasting-dau/
 layout: single
+permalink: /projects/forecasting-dau/
 author_profile: false
 ---
 
